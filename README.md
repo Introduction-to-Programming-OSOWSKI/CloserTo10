@@ -1,17 +1,29 @@
-# **Assignment Title**  
+# **Closer To 10**  
 
 ## **Assignment Description**  
-
+Given int x and int y, create a method called close10 that returns whichever value is nearest to the value 10, or returns 0 in the event of a tie.
 
 ## **Examples**  
->
+>close10(5, 12)  
+12
+
+>close10(9, 50)  
+9
+
+>close10(8, 12)  
+0
 
 ## **Limitations**  
+1 method  
+1 if  
+1 else if  
+1 else
 
 ## **Hints**  
+Math.abs(n) returns the absolute value of n.
 
 ## **Concepts**  
-
+Methods, Operators, int, Math, if/else
 
 ---
 
